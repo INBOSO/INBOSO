@@ -2,6 +2,7 @@
 - 🦸‍♀️ My name is Inna and I am from Latvia
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning PowerBI, SQL, Phyton
+- 👩‍🎓 I'm mentee in Riga TechGirls Mentorship program "Business Analytics"
 - 📫 How to reach me https://www.linkedin.com/in/borshch-inna/
 
 <!---
