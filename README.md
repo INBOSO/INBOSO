@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @INBOSO my name is Inna
+- 👋 Hi, I’m @INBOSO 
+- 🦸‍♀️ My name is Inna and I am from Latvia
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, PowerBI, Phyton
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PowerBI, SQL, Phyton
 - 📫 How to reach me https://www.linkedin.com/in/borshch-inna/
 
 <!---
